@@ -7,8 +7,10 @@ Composerでインストール
 
 composer.json
 
+```
 {
     "require": {
         "chrisboulton/php-resque": "1.2.x"
     }
 }	
+```
